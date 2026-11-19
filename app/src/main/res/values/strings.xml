@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contacts V2</string>
+    <string name="titre_contacts">Mes contacts</string>
+    <string name="titre_detail">Détail du contact</string>
+    <string name="label_nom">Nom</string>
+    <string name="label_prenom">Prénom</string>
+    <string name="label_telephone">Téléphone</string>
+    <string name="label_email">E-mail</string>
+    <string name="btn_appeler">Appeler</string>
+    <string name="btn_email">E-mail</string>
+    <string name="btn_choisir_photo">Choisir une photo</string>
+    <string name="btn_prendre_photo">Prendre une photo</string>
+    <string name="btn_enregistrer">Enregistrer</string>
+    <string name="btn_annuler">Annuler</string>
+    <string name="erreur_champs_obligatoires">Le nom, le prénom et le téléphone sont obligatoires</string>
+    <string name="msg_contact_modifie">Contact mis à jour avec succès</string>
+    <string name="msg_app_non_disponible">Aucune application compatible trouvée</string>
+</resources>

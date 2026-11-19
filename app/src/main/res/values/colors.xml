@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4A148C</color> <!-- Deep Purple from mockup -->
+    <color name="primary_dark">#311B92</color>
+    <color name="color_accent">#00C853</color> <!-- Call green -->
+    <color name="email_blue">#0288D1</color>  <!-- Email blue -->
+    <color name="background_light">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>
